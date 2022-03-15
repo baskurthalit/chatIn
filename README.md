@@ -1,3 +1,6 @@
 # chatIn
 Swift Chat APP
-![chatView](ViewSecrens/chatView.png) 
+*![launchView](ViewSecrens/launchView.png) 
+*![chatView](ViewSecrens/chatView.png) 
+*![loginView.png](ViewSecrens/loginView.png) 
+*![registerView](ViewSecrens/registerView.png) 
